@@ -3,13 +3,7 @@ import "./App.css";
 import React, { useState } from "react";
 
 import logo from "./logo.svg";
-import {
-  ApolloClient,
-  InMemoryCache,
-  ApolloProvider,
-  useQuery,
-  gql
-} from "@apollo/client";
+
 
 function App() {
   const [count, setCount] = useState(0);
