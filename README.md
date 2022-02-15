@@ -1,5 +1,6 @@
-<<<<<<< HEAD
-# React-Base
-=======
-# react-base-testing-library-apollo
->>>>>>> 8e51222819362633664d74a5ad778b5baea6594d
+
+# React-Base-Testing-Library-Apollo
+
+# Description
+
+A Quick react starter project template powered by vite with React Testing Library and Apollo Client, A comprehensive state management library for JavaScript that enables you to manage both local and remote data with GraphQL. Use it to fetch, cache, and modify application data, all while automatically updating your UI.
